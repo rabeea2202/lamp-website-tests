@@ -5,7 +5,7 @@ from selenium.common.exceptions import NoSuchElementException
 import time
 
 # Configurations
-BASE_URL = "http://174.129.143.204:4000"
+BASE_URL = "http://3.83.219.205:4000"
 
 def start_driver():
     options = webdriver.ChromeOptions()
